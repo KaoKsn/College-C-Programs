@@ -10,12 +10,22 @@ Welcome to the **College-C-Programs**!
 - The main purpose of this repository is to let students of the class learn using **Git** and **Github**. 
 - Prepare for exams and lab practicals.
 - Gain hands-on experience with **C** programming, **Git** and **Github**.
-- 
+  
 ---
+
+## Rules
+- Please don't push to the main branch of the repository.
+- Push your codes to the branch that has been named with `your name`.
+  For example,<br>If you are xyz, please push to the branch named **xyz**.
+- Please work on your own repository.
+- If you have any problems with using **Git** and **Github**, please look for answers online or consult your friend.
+- Lastly and most importantly please don't be afraid to make mistakes because this repo has been created for us to learn.
+- Happy Learning.
 
 ## Table of Contents  
 
-- [About the Repository](#About-the-Repository)  
+- [About the Repository](#About-the-Repository)
+- [Rules](#Rules) 
 - [Prerequisites](#Prerequisites)   
 - [Getting Started](#Getting-Started)
 - [Usage Instructions](#Using-this-repository)  
@@ -28,6 +38,9 @@ Welcome to the **College-C-Programs**!
 If you are an absolute beginner to **Git** and **Github**, you could follow these videos.
 - https://www.youtube.com/watch?v=zTjRZNkhiEU - A quick video on **Git** and **Github**.
  
+Learn about the basics of **Git** and **Github** and configure them in your system using online sources.
+<br>
+
 Before running the programs, ensure you have the following:  
 - A C compiler (e.g., GCC) installed.  
   - On Linux, install GCC using:  
