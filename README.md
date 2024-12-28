@@ -17,6 +17,7 @@ Welcome to the **College-C-Programs**!
 
 - [About the Repository](#About-the-Repository)  
 - [Prerequisites](#Prerequisites)   
+- [Getting Started](#Getting-Started)
 - [Usage Instructions](#Using-this-repository)  
 - [Collaborates](#Collaborators) 
 
@@ -24,6 +25,9 @@ Welcome to the **College-C-Programs**!
 
 ## Prerequisites
 
+If you are an absolute beginner to **Git** and **Github**, you could follow these videos.
+- https://www.youtube.com/watch?v=zTjRZNkhiEU - A quick video on **Git** and **Github**.
+ 
 Before running the programs, ensure you have the following:  
 - A C compiler (e.g., GCC) installed.  
   - On Linux, install GCC using:  
@@ -35,9 +39,34 @@ Before running the programs, ensure you have the following:
   - On Microsoft, install GCC using MinGW-w64.
   - On MacOS, install GCC using tools like Homebrew.
 
-- A basic understanding of how to compile and run C programs.  
-
+### Compiling and Running the C program file:
+```sh
+gcc filename.c -o outputname
+./outputname
+```
 ---
+
+## Getting Started
+To start working on your branch
+<br>
+- Go to the desired location in your computer and open your code editor with the terminal.
+- Use the following commands to start working on your branch.
+
+```sh
+git clone -b main https://github.com/KaoKsn/College-C-Programs.git --single-branch
+git branch -m yourname
+```
+***Please enter the name of the branch you wish.(Preferably your first name)***
+<br>
+Make changes to the branches as you wish and then to push the code back to this repo use:
+
+```sh
+git push -u origin yourname
+```
+*-u* is to be used only once i.e you set the upstream only once. After this you can just use 
+```sh
+git push
+```
 
 ---
 
@@ -45,17 +74,8 @@ Before running the programs, ensure you have the following:
 
 ### Clone this repository:
 
-```bash
+```sh
 git clone https://github.com/KaoKsn/College-C-Programs.git
-```
-
-### Pull the contents of this repository after cloning it.
-```bash
-git pull 
-```
-### Push the changes to your branch.
-```bash
-git push origin yourbranchname.
 ```
 
 ## Collaborators:
