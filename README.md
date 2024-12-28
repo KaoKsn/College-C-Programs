@@ -22,7 +22,7 @@ Welcome to the **College-C-Programs**!
 
 ---
 
-## Prerequisities 
+## Prerequisites
 
 Before running the programs, ensure you have the following:  
 - A C compiler (e.g., GCC) installed.  
