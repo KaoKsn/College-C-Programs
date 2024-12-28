@@ -15,25 +15,26 @@ Welcome to the **College-C-Programs**!
 
 ## Table of Contents  
 
-- [About the Repository](#about-the-repository)  
-- [Prerequisites](#Prerequisites)  
-- [Programs Included](#programs-included)  
-- [Usage Instructions](#usage-instructions)  
-- [Contributing](#contributing)
-- [License](#license)  
+- [About the Repository](#About-the-Repository)  
+- [Prerequisites](#Prerequisites)   
+- [Usage Instructions](#Using-this-repository)  
+- [Collaborates](#Collaborators) 
 
 ---
 
-## 🛠 Prerequisites  
+## Prerequisities 
 
 Before running the programs, ensure you have the following:  
 - A C compiler (e.g., GCC) installed.  
   - On Linux, install GCC using:  
     ```bash  
     sudo pacman -S gcc    # For Arch-based distributions like Manjaro
-    sudo dnf install gcc  # For Fedora.
+    sudo dnf install gcc  # For Fedora/RHEL based distributions.
     sudo apt install gcc  # For Debain-based distributions like Ubuntu, POP OS.
     ```  
+  - On Microsoft, install GCC using MinGW-w64.
+  - On MacOS, install GCC using tools like Homebrew.
+
 - A basic understanding of how to compile and run C programs.  
 
 ---
@@ -47,9 +48,17 @@ Before running the programs, ensure you have the following:
 ```bash
 git clone https://github.com/KaoKsn/College-C-Programs.git
 ```
+
 ### Pull the contents of this repository after cloning it.
 ```bash
 git pull 
 ```
+### Push the changes to your branch.
+```bash
+git push origin yourbranchname.
+```
 
+## Collaborators:
+- Mayura Krishna G (KaoKsn)
+- Maurya Doshi (mayura-doshi)
 
