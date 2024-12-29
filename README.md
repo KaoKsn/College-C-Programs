@@ -51,8 +51,8 @@ Before running the programs, ensure you have the following:
     sudo apt install gcc  # For Debain-based distributions like Ubuntu, POP OS.
     ```  
   - On Microsoft, install GCC using MinGW-w64.
-   -https://code.visualstudio.com/docs/cpp/config-mingw
-   Follow the instructions exactly as given till *Check your MinGW Installation*
+   - https://code.visualstudio.com/docs/cpp/config-mingw
+     Follow the instructions exactly as given till *Check your MinGW Installation*
   - On MacOS, install GCC using tools like Homebrew.
 
 ### Compiling and Running the C program file:
