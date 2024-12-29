@@ -36,7 +36,8 @@ Welcome to the **College-C-Programs**!
 ## Prerequisites
 
 If you are an absolute beginner to **Git** and **Github**, you could follow these videos.
-- https://www.youtube.com/watch?v=zTjRZNkhiEU - A quick video on **Git** and **Github**.
+- https://www.youtube.com/watch?v=zTjRZNkhiEU - A more detailed video on ***Git*** and ***Github***.
+- https://www.youtube.com/watch?v=NcoBAfJ6l2Q&list=PL16P21MyXjBXCtPppa4t6ezMn7sjdhbpE&index=3 -  A quick video on **Git** and **Github**.
  
 Learn about the basics of **Git** and **Github** and configure them in your system using online sources.
 <br>
