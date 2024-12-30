@@ -95,4 +95,7 @@ git clone https://github.com/KaoKsn/College-C-Programs.git
 ## Collaborators:
 - Mayura Krishna G (KaoKsn)
 - Maurya Doshi (maurya-doshi)
+- Nishka Kotadia (Nishka-kotadia)
+- Mandeepsinh Parmar (mandeepsinh-parmar)
+- Mohd. Sahil (Sahil-dev-2005)
 
