@@ -67,7 +67,7 @@ To start working on your branch
 - Use the following commands to start working on your branch.
 
 ```sh
-git clone -b main https://github.com/KaoKsn/College-C-Programs.git --single-branch
+git clone -b main https://github.com/Section-B-CSE/College-C-Programs.git --single-branch
 git branch -m yourname
 ```
 ***Please enter the name of the branch you wish.(Preferably your first name)***
@@ -89,7 +89,7 @@ git push
 ### Clone this repository:
 
 ```sh
-git clone https://github.com/KaoKsn/College-C-Programs.git
+git clone https://github.com/Section-B-CSE/College-C-Programs.git
 ```
 
 ## Collaborators:
@@ -101,4 +101,5 @@ git clone https://github.com/KaoKsn/College-C-Programs.git
 - Keshav Kunal (kunaltechwiz)
 - Talha (talhaishere2411)
 - Kaninika Sardar (Kaninika20)
+- Ritika Verma (ritika-290)
 
