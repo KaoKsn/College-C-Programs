@@ -32,3 +32,4 @@ int main(void)
 					printf("The value of the temperature in Celcius scale is: %3.f\n",tempc);
 					break;
 		}
+}
