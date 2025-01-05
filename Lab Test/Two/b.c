@@ -47,6 +47,7 @@ int main(void)
 	final = quizf+midf+ff;
 
 	printf("Your Final Score: %.3f\n",final);
+}
 	
 	
 	
