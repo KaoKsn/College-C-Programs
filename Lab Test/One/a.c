@@ -13,7 +13,7 @@ int main(void)
 				int choice;
 				printf("Enter one of the following options:\n 1.Convert from Celcius to Degrees.\n2. Convert from Fahrenhiet to Celcius.\n");
 				scanf("%d",&choice);
-		}while(choice!=1 || choice!=2)
+		}while(choice!=1 || choice!=2);
 
 		// Converting based on the users choice.
 		switch(choice)
