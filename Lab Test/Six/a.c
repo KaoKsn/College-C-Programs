@@ -5,10 +5,12 @@
 
 int main(void)
 {	
+	// Getting the size of the array.
 	int n;
 	printf("Enter the size of the array:\n");
 	scanf("%d",&n);
-	
+
+	// Printing the index and it's square.
 	printf("Index\t\t\t\tSquare of the index\n");
 	for(int i=0;i<n;i++)
 	{
