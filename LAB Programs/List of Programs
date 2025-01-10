@@ -1,0 +1,47 @@
+**1.** 
+* Write a C program to convert temperature given in Celsius to Fahrenheit and Fahrenheit to Celsius.
+* Write a c program to calculate the area and circumference of a circle using PI as a defined constant.
+
+**2.** 
+* Write a C program to calculate the total sales given the unit price, quantity, discount and tax rate.
+* Write a C program to calculate a student's average score for a course with 4 quizzes, 2 midterms and a final. The quizzes are weighted 30%, the midterms 40% and the final 30%.
+
+**3.** 
+* Write a C program to perform a desired arithmetic operation (add, multiply, subtract and divide two numbers) using switch statement.
+* Write and execute a C program to read numbers using keyboard and find the area of triangle, square, circle and rectangle using switch statement and display the result.
+
+**4.** 
+* Write a C program to compute the roots of a quadratic equation by accepting the coefficients.
+* Write a C program to read a test score, calculate the grade for the score and print the grade
+
+**5.** 
+* Write a C program to read a number using keyboard, find the factorial of a number using for loop/Recursion and display the result.
+* Write a C program to check whether a given number is palindrome or not using a while loop
+
+**6.** 
+* Write a C program to print square of index and print it.
+* Write a C program to calculate sum and average of elements in an array
+
+**7.** 
+* Write a C program to search an ordered list using binary search.
+* Write a C Program to sort elements in ascending order using bubble sort
+
+**8.** 
+* Write a C Program to find perform addition of two matrices using two dimensional arrays
+* Write a C Program to find product of two matrices using two dimensional arrays
+
+**9.** 
+* Write a C Program to read two number, find its GCD and LCM using function with arguments and without return type
+* Write a C Program to read a number, Find whether it is prime number or not using function without arguments and without return type
+
+**10.** 
+* Write a C Program read two strings, combine them without using string built-in functions.
+* Write a C Program read two strings, Compare them without using string built-in functions.
+
+**11.** 
+* Write a C Program to demonstrate the use of built in string functions like strcpy(), strcat().strcmp() and strlen()
+* Write a C Program to read marks of three students in 3 subjects. Calculate the total marks scored, student wise and subject wise using structure.
+
+**12.** 
+* Write a C Program to swap two numbers using pointers and display the result.
+* Write a C Program to read an array of elements, Compute its sum using pointers.
